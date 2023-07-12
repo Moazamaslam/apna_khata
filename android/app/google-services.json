@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "819932301790",
+    "project_id": "final-year-project-e087d",
+    "storage_bucket": "final-year-project-e087d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819932301790:android:21f74d9d06456c523e354f",
+        "android_client_info": {
+          "package_name": "alvii.pakistan.apna_khata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819932301790-p0lfecs4ftsdj3c9gfiij8vhvnsi5ckv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alvii.pakistan.apna_khata",
+            "certificate_hash": "22f97a40c794c00b409ac4bd6607a476ccc103b5"
+          }
+        },
+        {
+          "client_id": "819932301790-vft2h61uo99b19mcjq36h39ma4np28j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCnA-2nfuNlGzIpaMEcG_otRcykQUiqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819932301790-vft2h61uo99b19mcjq36h39ma4np28j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
